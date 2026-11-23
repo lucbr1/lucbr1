@@ -1,6 +1,6 @@
 # Lucas Brun
 
-Développeur passionné par le **Game Dev** et le **numérique responsable** (éco-conception & accessibilité). Alternant chez CEGI ALFA et candidat au Master Enjmin.
+Développeur passionné par le **Game Dev** et le **numérique responsable** (éco-conception & accessibilité). Alternant chez CEGI ALFA et candidat au Master AMINJ du Cnam Enjmin.
 
 ---
 
